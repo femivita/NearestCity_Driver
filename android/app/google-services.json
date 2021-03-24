@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "523622154383",
+    "firebase_url": "https://nearest-city-e6ecb.firebaseio.com",
+    "project_id": "nearest-city-e6ecb",
+    "storage_bucket": "nearest-city-e6ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523622154383:android:aa33995ab288c100d4b0fa",
+        "android_client_info": {
+          "package_name": "com.techon.nearestcityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523622154383-7velddmqd6n127sv3ro2bkfhqk6pah8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQA0ryawX-Q8M4P2vWKiYV9XX7ScV34ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523622154383-7velddmqd6n127sv3ro2bkfhqk6pah8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523622154383:android:d004db412a3558fad4b0fa",
+        "android_client_info": {
+          "package_name": "com.techon.nearestcitydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523622154383-7velddmqd6n127sv3ro2bkfhqk6pah8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQA0ryawX-Q8M4P2vWKiYV9XX7ScV34ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523622154383-7velddmqd6n127sv3ro2bkfhqk6pah8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
